@@ -6,5 +6,6 @@
 multi line comments
 */
 
-console.log(kedest)
-console.log(steak)
+// this is the basic console.log, learning about logging in the console//
+
+console.log ("Kedest Fentahun Today my favorite food is steak");
